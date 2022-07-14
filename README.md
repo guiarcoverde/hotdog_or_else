@@ -32,6 +32,6 @@ Uma camada de pooling serve para simplificar a informação da camada anterior. 
 ## Fully connected
 Ao final da rede é colocada uma camada Fully connected, onde sua entrada é a saída da camada anterior e sua saída são N neurônios, com N sendo a quantidade de classes do seu modelo para finalizar a classificação.
 
-Texto retirado do (Medium)[https://medium.com/infosimples/understanding-convnets-cnn-712f2afe4dd3].
+Texto retirado do [Medium](https://medium.com/infosimples/understanding-convnets-cnn-712f2afe4dd3).
 
 
