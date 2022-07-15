@@ -1,3 +1,9 @@
+# Contexto
+
+Projeto baseado em um trecho do Episódio 4 da 4ª temporada do seriado Sillicon Valley. 
+
+[Link para o vídeo.](https://youtu.be/vIci3C4JkL0?t=52)
+
 # Entendendo um pouco sobre redes convolucionais
 
 ## Origem
