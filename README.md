@@ -40,4 +40,9 @@ Ao final da rede é colocada uma camada Fully connected, onde sua entrada é a s
 
 Texto retirado do [Medium](https://medium.com/infosimples/understanding-convnets-cnn-712f2afe4dd3).
 
+# Usando CNN
+
+## Exemplos de imagens usadas no treino e no teste
+
+![graph](https://user-images.githubusercontent.com/87540453/179227964-96cfa2aa-0a47-4a2b-b2fa-426b9fa79e93.png)
 
