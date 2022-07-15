@@ -104,5 +104,3 @@ if __name__ == '__main__':
 
     test_plot(history)
 
-    testing_set()
-
