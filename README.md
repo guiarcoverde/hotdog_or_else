@@ -46,3 +46,39 @@ Texto retirado do [Medium](https://medium.com/infosimples/understanding-convnets
 
 ![graph](https://user-images.githubusercontent.com/87540453/179227964-96cfa2aa-0a47-4a2b-b2fa-426b9fa79e93.png)
 
+## Avaliação do modelo
+### Entendendo o que é fine tuning
+[Vídeo explicativo](https://www.youtube.com/watch?time_continue=5&v=Igm-iCU7Ia4&feature=emb_title)
+
+### Desempenho sem usar Fine tuning
+#### Acurácia
+
+![notuning_accuracy](https://user-images.githubusercontent.com/87540453/179628937-f4e982bd-a3f5-4d00-98d1-0f1ff66a27d7.png)
+
+#### Loss
+
+![notuning_loss](https://user-images.githubusercontent.com/87540453/179628963-2456ede5-ac26-4db2-83e6-01cbebf1b995.png)
+
+
+### Usando o modelo VGG16
+
+#### Acurácia
+
+![vgg16_accuracy](https://user-images.githubusercontent.com/87540453/179628998-b726434b-87fe-4223-9dae-83c9e1087366.png)
+
+#### Loss
+
+![vgg16_loss](https://user-images.githubusercontent.com/87540453/179629028-6a777720-ef77-4311-ac0c-f1572d14fd27.png)
+
+
+### Usando modelo ResNet50
+
+#### Acurácia
+
+![resnet_accuracy](https://user-images.githubusercontent.com/87540453/179629059-d3be1681-58fc-4440-92c7-14910f34e2f1.png)
+
+#### Loss
+
+![resnet_loss](https://user-images.githubusercontent.com/87540453/179629102-91404bd1-9827-40d1-9e2e-f6551138bff9.png)
+
+
